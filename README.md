@@ -7,6 +7,7 @@
             
 Welcome to my github</br>
 Here you can find random bits and bobs that I have probably just made for fun since im not a professional programmer.
+</br> Or maybe even something that might be slightly usefull, but I highly doubt that.
                                                                                                                     
 <p align="left">
   <a href="https://www.instagram.com/4l3xh4n53n/"><img height="60" width="60" align="left" src="https://imgur.com/TfKFFc3.png?raw=true"></a>
