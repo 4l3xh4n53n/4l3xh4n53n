@@ -1,6 +1,21 @@
 # [![4legsbanner](https://imgur.com/Uh6AfHG.png)](https://github.com/4l3xh4n53n)
-<h1 align="middle">Henlo and thanks for comming to my profile 👍</h1>
+<div align="center">
+  
+  [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
+  [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![DiscordBOT](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=673654725127831562&permissions=261993005055&scope=bot)
+  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/4legs)
+  
+</div>  
 
+<div align="center">
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=4l3xh4n53n)
+  [![GitHub followers](https://img.shields.io/github/followers/4l3xh4n53n.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/4l3xh4n53n?tab=followers)
+
+</div>  
+
+<h1 align="middle">Henlo and thanks for comming to my profile 👍</h1>
 <p align="left">
   <a href="https://youtube.com/c/4legs"><img height="60" width="60" align="left" src="https://imgur.com/kw9hHbk.png"></a>
 </p>
@@ -22,6 +37,10 @@ Oh and I might also make a FNF mod too.
 If you wanna check out any of my other socials you can find links to them on the left of this page.</br>
 <----- ✧･ﾟ: *✧･ﾟ:* MY SOCIALS😃! *:･ﾟ✧*:･ﾟ✧</br>
                                                                                                                                
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=4l3xh4n53n&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4l3xh4n53n&theme=blue-green)
+
 ---
                                                                                                                                
 ### I am currently learning:
